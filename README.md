@@ -56,8 +56,7 @@ python analysis.py
 - Expand analysis to include customer demographics.
 
 ## Contributors
-- **[Your Name]** – Data Analysis & Report
-- **[Team Members (if any)]**
+- **[ABIR GHOSH]** – Data Analysis & Report
 
 ## License
 This project is for educational purposes and follows an open-source approach.
